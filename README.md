@@ -198,12 +198,6 @@ Example:
 - 🎬 Into anime, series, and movies across different genres
 - 🎮 Loves playing online games and exploring virtual worlds
 
-<details>
-  <summary><strong>Outside of coding</strong></summary>
-  <br />
-  [OPTIONAL short paragraph about hobbies, interests, creative work, sports, reading, travel, or side quests.]
-</details>
-
 ---
 
 ## 🤝 Let’s Connect
