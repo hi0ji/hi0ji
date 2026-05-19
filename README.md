@@ -36,16 +36,16 @@ HOW TO USE:
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_LINK]">
+  <a href="www.linkedin.com/in/pj-figuracion">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[TWITTER_X_LINK]">
+  <a href="https://x.com/jii_llyace">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="[PORTFOLIO_LINK]">
+  <a href="http://pjlln.me/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:[EMAIL]">
+  <a href="mailto:pacfiguracion.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -60,7 +60,7 @@ HOW TO USE:
 - 🌱 **Currently learning:** AI Infrastructure
 - 🛠️ **Currently building:** Thesis
 - 💬 **Ask me about:** Data, Automation, Machine Learning, and building useful apps
-- 📄 **Resume:** will upload soon
+- 📄 **Resume:** https://drive.google.com/file/d/1CyODUl5Ch2t2ON4gN6a_zbKwejdK4G_y/view?pli=1
 
 <!-- Optional: replace with your avatar, workspace photo, coding GIF, or personal brand image -->
 <!-- Example placement:
@@ -94,14 +94,14 @@ HOW TO USE:
 ## 📌 Current Focus
 
 ### 🔭 Currently Building
-- [WHAT YOU'RE BUILDING]
-- [PROJECT / FEATURE / STARTUP / OPEN SOURCE WORK]
-- [OPTIONAL THIRD ITEM]
+- AI-Powered Davao Bus Live Tracker Web App
+- PROJECT
+- [DESCRIPTION]
 
 ### 📚 Currently Learning
-- [TECH / TOPIC / DOMAIN]
-- [TECH / TOPIC / DOMAIN]
-- [TECH / TOPIC / DOMAIN]
+- System Design
+- Microservices
+- Cloud Computing
 
 ---
 
@@ -173,7 +173,7 @@ Example:
 ## 🏆 Achievements & Certifications
 
 <!-- Keep this section only if relevant -->
-- 🥇 [CERTIFICATION / AWARD / NOTABLE MILESTONE]
+- 🥇 NASA Space Apps Hackathon Participant
 - 🎓 [CERTIFICATION / COURSE / LICENSE]
 - 🌍 [SPEAKING / OPEN SOURCE / COMMUNITY ACHIEVEMENT]
 - ✨ [OPTIONAL EXTRA ACCOMPLISHMENT]
@@ -209,19 +209,19 @@ Example:
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="[PORTFOLIO_LINK]">
+  <a href="http://pjlln.me/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[LINKEDIN_LINK]">
+  <a href="www.linkedin.com/in/pj-figuracion">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[TWITTER_X_LINK]">
+  <a href="https://x.com/jii_llyace">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="mailto:[EMAIL]">
+  <a href="mailto:pacfiguracion.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[OPTIONAL_RESUME_LINK]">
+  <a href="https://drive.google.com/file/d/1CyODUl5Ch2t2ON4gN6a_zbKwejdK4G_y/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-View-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
