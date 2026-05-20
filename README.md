@@ -138,26 +138,6 @@ HOW TO USE:
 
 <br />
 
-### 2) [PROJECT NAME]
-**[SHORT DESCRIPTION]**  
-🔗 [View Project]([LINK])
-
-**Highlights**
-- [Key impact / feature / achievement]
-- [Tech stack or architecture note]
-- [Outcome, metric, or problem solved]
-
-<br />
-
-### 3) [PROJECT NAME]
-**[SHORT DESCRIPTION]**  
-🔗 [View Project]([LINK])
-
-**Highlights**
-- [Key impact / feature / achievement]
-- [Tech stack or architecture note]
-- [Outcome, metric, or problem solved]
-
 </div>
 
 <!-- Optional visual enhancement:
@@ -167,29 +147,6 @@ Example:
   <img src="[PROJECT_SCREENSHOT_OR_GIF_URL]" alt="[PROJECT NAME] preview" width="100%" />
 </p>
 -->
-
----
-
-## 🏆 Achievements & Certifications
-
-<!-- Keep this section only if relevant -->
-- 🥇 NASA Space Apps Hackathon Participant
-- 🎓 [CERTIFICATION / COURSE / LICENSE]
-- 🌍 [SPEAKING / OPEN SOURCE / COMMUNITY ACHIEVEMENT]
-- ✨ [OPTIONAL EXTRA ACCOMPLISHMENT]
-
-<details>
-  <summary><strong>See more highlights</strong></summary>
-  <br />
-
-- [Hackathon / award / promotion / publication]
-- [Leadership / mentoring / volunteering]
-- [Open-source contributions / featured work]
-- [Anything recruiter-friendly and credible]
-
-</details>
-
----
 
 ## 💡 A Few Things About Me
 
