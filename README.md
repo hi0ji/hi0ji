@@ -36,7 +36,7 @@ HOW TO USE:
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/pj-figuracion">
+  <a href="https://linkedin.com/in/pj-figuracion">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/jii_llyace">
@@ -163,7 +163,7 @@ Example:
   <a href="http://pjlln.me/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="www.linkedin.com/in/pj-figuracion">
+  <a href="https://linkedin.com/in/pj-figuracion">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/jii_llyace">
