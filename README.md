@@ -178,14 +178,3 @@ Example:
 </p>
 
 ---
-
-## 📝 Quick Snapshot
-
-```text
-Name: [YOUR NAME]
-Role: [YOUR ROLE]
-Location: [YOUR LOCATION]
-Focus: [WHAT YOU’RE WORKING ON]
-Stack: [LIST YOUR TOOLS, LANGUAGES, FRAMEWORKS]
-Website: [LINK]
-Email: [EMAIL]
