@@ -13,7 +13,7 @@ HOW TO USE:
 
 <!-- replace with your banner URL -->
 <p align="center">
-  <img src="[YOUR_BANNER_URL]" alt="Banner" width="100%" />
+  <img src="./github_banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm PJ 👋</h1>
