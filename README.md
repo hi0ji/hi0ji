@@ -56,10 +56,10 @@ HOW TO USE:
 
 - 🧑‍💻 **Role:** Data Scientist | Software Developer
 - 📍 **Based in:** Philippines
-- 🚀 **Current focus:** Thesis
+- 🚀 **Current focus:** N/A
 - 🌱 **Currently learning:** AI Infrastructure
-- 🛠️ **Currently building:** Thesis
-- 💬 **Ask me about:** Data, Automation, Machine Learning, and building useful apps
+- 🛠️ **Currently building:** N/A
+- 💬 **Ask me about:** Data, Software, Machine Learning, and building useful apps
 - 📄 **Resume:** https://drive.google.com/file/d/1CyODUl5Ch2t2ON4gN6a_zbKwejdK4G_y/view?pli=1
 
 <!-- Optional: replace with your avatar, workspace photo, coding GIF, or personal brand image -->
@@ -128,7 +128,7 @@ HOW TO USE:
 <div align="left">
 
 ### 1) Mangopra
-**A thesis mobile app that detects copra and classifies its quality grade using YOLO26, GLCM-based feature extraction, and lightweight deep learning models for efficient and accurate mobile-based assessment.**  
+**A mobile app that detects copra and classifies its quality grade using YOLO26, GLCM-based feature extraction, and lightweight deep learning models for efficient and accurate mobile-based assessment.**  
 🔗 [View Project]([LINK])
 
 **Highlights**
